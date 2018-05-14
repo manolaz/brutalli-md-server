@@ -1,0 +1,29 @@
+{
+  "name": "brutallium",
+  "version": "0.0.1",
+  "description": "Brutal basic mddleware server",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-server": "^2.0.0-beta.1",
+    "graphql": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolaz/brutalli-md-server.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "koa"
+  ],
+  "author": "manolaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manolaz/brutalli-md-server/issues"
+  },
+  "homepage": "https://github.com/manolaz/brutalli-md-server#readme"
+}
